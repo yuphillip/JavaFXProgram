@@ -81,7 +81,6 @@ class Book
         {
             this.author = author;
         }
-
         public String toString()
         {
             return "Book [name=" + name + ", price=" + price + ", author=" + author + "}";
